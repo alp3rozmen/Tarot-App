@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.a80db794.css",
-    "main.js": "/my-app/static/js/main.91647a8f.js",
-    "static/js/787.28cb0dcd.chunk.js": "/my-app/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/my-app/index.html",
-    "main.a80db794.css.map": "/my-app/static/css/main.a80db794.css.map",
-    "main.91647a8f.js.map": "/my-app/static/js/main.91647a8f.js.map",
-    "787.28cb0dcd.chunk.js.map": "/my-app/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/Tarot-App/static/css/main.a80db794.css",
+    "main.js": "/Tarot-App/static/js/main.9738b7a9.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Tarot-App/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Tarot-App/index.html",
+    "main.a80db794.css.map": "/Tarot-App/static/css/main.a80db794.css.map",
+    "main.9738b7a9.js.map": "/Tarot-App/static/js/main.9738b7a9.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Tarot-App/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a80db794.css",
-    "static/js/main.91647a8f.js"
+    "static/js/main.9738b7a9.js"
   ]
 }
